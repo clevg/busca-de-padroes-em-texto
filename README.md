@@ -54,7 +54,7 @@ Digite o padrão a ser buscado: amor
 
 🔍 Shift-And encontrou 12 ocorrências em 0.002134 segundos.
 🔍 Força Bruta encontrou 12 ocorrências em 0.003981 segundos.
-📚 Índice invertido encontrou 8 ocorrências em 0.000521 segundos.
+📚 Índice invertido encontrou 12 ocorrências em 0.000521 segundos.
 ```
 
 ---
